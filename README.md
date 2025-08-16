@@ -6,6 +6,12 @@ Most of my work centers around command-line environments, automation logic, and 
 
 ---
 
+## 🛠️ Featured Projects
+
+* [ncexs Toolkit](https://github.com/ncexs/ncexs-toolkit) – PowerShell-based utility suite for system cleanup, optimization, and maintenance.
+
+---
+
 ## 📫 Contact & Support
 
 * GitHub: [github.com/ncexs](https://github.com/ncexs)  
