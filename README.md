@@ -1,22 +1,24 @@
+![Jasper AI Hello GIF](https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif)
+
 # 👋 Hi, I'm ncexs
 
-I explore digital systems, fictional interfaces, and creative open-source workflows. My focus is on building experimental tools in the terminal, designing functional scripts, and structuring clean, maintainable projects.
-
-Most of my work centers around command-line environments, automation logic, and lightweight utilities with practical or conceptual value.
+I explore digital systems, workflows, and experimental tools.  
+Focusing on automation, command-line interfaces, and lightweight, practical utilities.
 
 ---
 
 ## 🛠️ Featured Projects
 
-* [ncexs Toolkit](https://github.com/ncexs/ncexs-toolkit) – PowerShell-based utility suite for system cleanup, optimization, and maintenance.
+- 🧰 [**ncexs Toolkit**](https://github.com/ncexs/ncexs-toolkit) – PowerShell utility suite for cleanup and optimization  
+- 🧹 [**ncexs Junk Cleaner**](https://github.com/ncexs/ncexs-junkcleaner) – Original `.bat`-based Windows cleaner
 
 ---
 
-## 📫 Contact & Support
+## 📫 Contact
 
-* GitHub: [github.com/ncexs](https://github.com/ncexs)  
-* Saweria: [saweria.co/ncexs](https://saweria.co/ncexs)
+- GitHub: [github.com/ncexs](https://github.com/ncexs)  
+- Donations: [Saweria](https://saweria.co/ncexs)
 
 ---
 
-> “Experimental projects aren't useless — they're playgrounds for future ideas.”
+> “Always curious, always learning.” ⚡
