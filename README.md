@@ -10,7 +10,17 @@ Focusing on automation, command-line interfaces, and lightweight, practical util
 ## 🛠️ Featured Projects
 
 - 🧰 [**ncexs Toolkit**](https://github.com/ncexs/ncexs-toolkit) – PowerShell utility suite for cleanup and optimization  
-- 🧹 [**ncexs Junk Cleaner**](https://github.com/ncexs/ncexs-junkcleaner) – Original `.bat`-based Windows cleaner
+- 🧹 [**ncexs Junk Cleaner**](https://github.com/ncexs/ncexs-junkcleaner) – Original `.bat`-based Windows cleaner  
+
+---
+
+## 🔒 Security & Trust
+
+- ✅ All public releases are scanned via **[VirusTotal](https://www.virustotal.com/)** before publishing  
+- 🛡️ Clean results ensure scripts are safe to run on Windows  
+- 📜 Hashes (SHA256) available on each release for verification  
+
+![VirusTotal Trusted](https://img.shields.io/badge/Security-VirusTotal%20Safe-brightgreen?logo=virustotal&style=for-the-badge)
 
 ---
 
