@@ -26,10 +26,6 @@ Focusing on automation, command-line interfaces, and lightweight, practical util
 
 ## 📫 Contact
 
-- GitHub: [github.com/ncexs](https://github.com/ncexs)  
-- Website: [ncexs.github.io](https://ncexs.github.io)  
-- Donations: [Saweria](https://saweria.co/ncexs)
-
----
-
-> “Always curious, always learning.” ⚡
+- 👨‍💻 GitHub: [github.com/ncexs](https://github.com/ncexs)  
+- 🌐 Website: [ncexs.github.io](https://ncexs.github.io)  
+- 💰 Donations: [Saweria](https://saweria.co/ncexs) 
