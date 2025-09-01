@@ -1,16 +1,20 @@
 ![Jasper AI Hello GIF](https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif)
 
 # 👋 Hi, I'm ncexs
+[![GitHub](https://img.shields.io/badge/GitHub-ncexs-181717?logo=github)](https://github.com/ncexs)
+[![Website](https://img.shields.io/badge/Website-ncexs.github.io-navy)](https://ncexs.github.io)
 
-I explore digital systems, workflows, and experimental tools.  
-Focusing on automation, command-line interfaces, and lightweight, practical utilities.
+A developer learning to build simple and useful tools for everyone.
 
 ---
 
 ## 🛠️ Featured Projects
 
-- 🧰 [**ncexs Toolkit**](https://github.com/ncexs/ncexs-toolkit) – PowerShell utility suite for cleanup and optimization  
-- 🧹 [**ncexs Junk Cleaner**](https://github.com/ncexs/ncexs-junkcleaner) – Original `.bat`-based Windows cleaner  
+[![ncexs Toolkit](https://img.shields.io/badge/ncexs%20Toolkit-PowerShell%20Utilities-blue?logo=powershell)](https://github.com/ncexs/ncexs-toolkit)  
+PowerShell utility suite for cleanup and optimization  
+
+[![ncexs Junk Cleaner](https://img.shields.io/badge/ncexs%20Junk%20Cleaner-.bat%20Windows%20Cleaner-orange?logo=windows)](https://github.com/ncexs/ncexs-junkcleaner)  
+Original `.bat`-based Windows cleaner
 
 ---
 
@@ -20,12 +24,12 @@ Focusing on automation, command-line interfaces, and lightweight, practical util
 - 🛡️ Clean results ensure scripts are safe to run on Windows  
 - 📜 Hashes (SHA256) available on each release for verification  
 
-![VirusTotal Trusted](https://img.shields.io/badge/Security-VirusTotal%20Safe-brightgreen?logo=virustotal&style=for-the-badge)
+![VirusTotal Trusted](https://img.shields.io/badge/Security-VirusTotal%20Safe-brightgreen?logo=virustotal)
 
 ---
 
-## 📫 Contact
+## ☕ Donations
 
-- 👨‍💻 GitHub: [github.com/ncexs](https://github.com/ncexs)  
-- 🌐 Website: [ncexs.github.io](https://ncexs.github.io)  
-- 💰 Donations: [Saweria](https://saweria.co/ncexs) 
+If you'd like to support my work, you can do so here:  
+
+[![Donations](https://img.shields.io/badge/Donations-Saweria-purple)](https://saweria.co/ncexs)
