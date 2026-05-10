@@ -19,22 +19,30 @@ A developer learning to build simple and useful tools for everyone.
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🧰 <a href="https://github.com/ncexs/ncexs-toolkit">ncexs Toolkit</a></h3>
       <p>An all-in-one PowerShell utility suite for Windows optimization.</p>
       <ul>
         <li>🧹 <b>Junk Cleaner</b> — Safely cleans system logs, temp files, and browser cache.</li>
         <li>⚡ <b>RAM Optimizer</b> — Reclaims unused memory with real-time statistics.</li>
-        <li>🔄 <b>Windows Fixer</b> — Reset stuck Windows Updates and repair network settings.</li>
         <li>🛡️ <b>100% Safe</b> — All critical deletions require manual verification (<code>Y/N</code>).</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🧹 <a href="https://github.com/ncexs/ncexs-junkcleaner">ncexs Junk Cleaner</a></h3>
       <p>The original classic <code>.bat</code> batch script for fast, no-nonsense storage cleanup.</p>
       <ul>
         <li>⚡ <b>No Installation</b> — Just run the batch file and clean in seconds.</li>
         <li>📂 <b>Targeted</b> — Cleans deeper cache directories with native Windows commands.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ <a href="https://github.com/ncexs/ncexs-AutoTask">ncexs Auto Task (NAT)</a></h3>
+      <p>A portable PowerShell script for safe, silent, and stable background maintenance.</p>
+      <ul>
+        <li>⏱️ <b>Unattended</b> — Fully optimized for automated Windows Task Scheduler.</li>
+        <li>🌀 <b>Shader Cache</b> — Cleans GPU, AMD, NVIDIA, and Intel shader caches safely.</li>
+        <li>🔒 <b>Process-Aware</b> — Detects active apps and skips them gracefully to protect sessions.</li>
       </ul>
     </td>
   </tr>
